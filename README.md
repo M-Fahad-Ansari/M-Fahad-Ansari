@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MEAN Stack development and working in Contour Software Pvt.Ltd
-- 🌱 I’m currently learning making PWA using Angular as well as React / Redux.
+- 🔭 I’m currently working as MEAN Stack developer (Sr.Software Engineer) in Contour Software Pvt.Ltd.
 - 💬 Ask me about Angular 2+, JavaScript, Typescript, MongoDB, NodeJS, ExpressJS, MEAN, Jasmine, Jest
+- 🌱 I’m currently learning making PWA using Angular as well as React / Redux.
 - 📫 How to reach me: fahad.ansari88@yahoo.com
 - ⚡ Fun fact: I turn the ideas in mind into the realistic products effortlessly.
 
